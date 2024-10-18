@@ -1,0 +1,28 @@
+.chat-container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.messages {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.message {
+    padding: 5px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+
+.job-seeker {
+    background-color: #e1f7d5; /* Light green */
+    align-self: flex-start; /* Align to the left */
+}
+
+.agency {
+    background-color: #d5e1f7; /* Light blue */
+    align-self: flex-end; /* Align to the right */
+}

@@ -1,0 +1,127 @@
+/* body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+.registration-form {
+    background: white;
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.form-input,
+.form-select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.form-input:focus,
+.form-select:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.gender-selection {
+    margin: 10px 0;
+}
+
+.hobbies-fieldset {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.hobbies-fieldset legend {
+    font-weight: bold;
+}
+
+.submit-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+} */
+
+
+/* Signup.css */
+
+/* .signup-container {
+    background: linear-gradient(135deg, #6e7dff, #4e54c8);
+    color: black;
+}
+
+.signup-form {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.form-input {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.form-input:focus {
+    border-color: #6e7dff;
+    box-shadow: 0 0 5px rgba(110, 125, 255, 0.5);
+} */
+
+
+/* Signup.css */
+
+.signup-container {
+    background: linear-gradient(135deg, #6e7dff, #4e54c8);
+    color: black;
+    min-height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-form {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    width: 400px; 
+    padding: 30px; 
+}
+
+.form-input {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.form-input:focus {
+    border-color: #6e7dff;
+    box-shadow: 0 0 5px rgba(110, 125, 255, 0.5);
+}
+
+.btn {
+    border-radius: 5px; 
+}
+
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 20px; 
+}
